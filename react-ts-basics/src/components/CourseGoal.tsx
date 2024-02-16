@@ -23,6 +23,12 @@ export default function CourseGoal({ title, id, children, onDelete }: CourseGoal
     )
 }
 
+
+
+
+
+
+
 // const CourseGoal: FC<CourseGoalProps> = ({ title, children }) => {
 //     return (
 //         <article>
